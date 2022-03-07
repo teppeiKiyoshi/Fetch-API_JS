@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "King of Spades",
+    "email": "king@kof.com"
+  },
+  {
+    "id": 2,
+    "name": "Queen of Spades",
+    "email": "queen@qof.com"
+  },
+  {
+    "id": 3,
+    "name": "Jack of Spades",
+    "email": "jack@jof.com"
+  }
+]
